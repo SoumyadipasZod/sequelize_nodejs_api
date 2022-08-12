@@ -1,0 +1,1 @@
+const RegModel = (req,res)
