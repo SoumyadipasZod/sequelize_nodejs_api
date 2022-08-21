@@ -150,7 +150,7 @@ exports.registration = async(req,res) =>{
         res.status(404).json({
             status:'failed',
             result: err,
-            message:'delete Update failed'
+            message:'registration failed'
         })
       })
       
